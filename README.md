@@ -1,2 +1,2 @@
 # RNASeq-Analysis
-Beginner practice project for learning RNA-seq data analysis
+RNA Sequencing Analysis in Health and Disease
